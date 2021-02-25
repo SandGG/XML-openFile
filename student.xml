@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school>
+    <student>
+        <name>Marco Díaz</name>
+        <number>12</number>
+        <quali>
+            <first>98</first>
+            <second>78</second>
+            <third>86</third>
+        </quali>
+     </student>
+    <student>
+        <name>Frankie Rivers</name>
+        <number>25</number>
+        <quali>
+            <first>89</first>
+            <second>97</second>
+            <third>85</third>
+        </quali>
+    </student>
+    <student>
+        <name>Ana Gomez</name>
+        <number>7</number>
+        <quali>
+            <first>76</first>
+            <second>83</second>
+            <third>91</third>
+        </quali>
+     </student>
+</school>
